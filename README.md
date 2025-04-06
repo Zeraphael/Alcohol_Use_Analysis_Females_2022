@@ -15,3 +15,6 @@ This project analyzes the Behavioral Risk Factor Surveillance System (BRFSS) dat
 - The District of Columbia, Montana, North Dakota, Minnesota, and Wisconsin had the highest alcohol prevalence rates among females in 2022.
 - Significant variation in alcohol use rates across different states.
 
+## 📁 Dataset
+Due to file size limits on GitHub, the dataset can be downloaded from:
+[Download U.S. Chronic Disease Indicators CSV](https://drive.google.com/file/d/1hgpROR6TWwl_YruN-VGE24QZwPEVxYu_/view?usp=sharing)
